@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=Hi%20there,%20I'm%20Mandar%20👋&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20•%20Windows%20Automation%20•%20SQL%20Architect&descAlignY=62&descAlign=50" width="100%"/>
@@ -26,7 +26,7 @@ I am a **Software Engineer & Systems Architect** specializing in enterprise Wind
 
 - 🏙️ **Municipal Infrastructure**: Built high-speed multi-server synchronization and layout plan processing architectures handling millions of property cards and tax records.
 - ⚡ **Zero-Dependency Architecture**: Passionate about creating self-contained, high-performance tooling leveraging native Windows APIs, PowerShell, and .NET.
-- 🔭 **Featured Project**: Creator and lead architect of **[Nexus Photo & Document Optimizer](https://github.com/Mandar023/Nexus-Photo-Optimizer)** — an enterprise suite combining Crystal Reports vector optimization, Beyond Compare diff studio, and an SSMS-grade SQL management console.
+- 🔭 **Featured Project**: Creator and lead architect of **[Nexus Enterprise Studio](https://github.com/Mandar023/Nexus-Enterprise-Studio)** — an enterprise suite combining Crystal Reports vector optimization, Beyond Compare diff studio, and an SSMS-grade SQL management console.
 - 💬 **Let's Talk About**: C#, PowerShell scripting, WPF UI design, T-SQL performance tuning, ONNX machine learning models, and network file distribution.
 
 ---
@@ -73,7 +73,7 @@ I am a **Software Engineer & Systems Architect** specializing in enterprise Wind
 <table>
   <tr>
     <td width="60%">
-      <h3><a href="https://github.com/Mandar023/Nexus-Photo-Optimizer">🚀 Nexus Photo & Document Optimizer (v5.5.0)</a></h3>
+      <h3><a href="https://github.com/Mandar023/Nexus-Enterprise-Studio">🚀 Nexus Enterprise Studio (v5.5.0)</a></h3>
       <p>
         An enterprise-grade, zero-dependency desktop productivity suite for high-throughput municipal document compression, multi-server sync, native folder/code comparison, and SSMS-grade SQL management.
       </p>
@@ -84,17 +84,17 @@ I am a **Software Engineer & Systems Architect** specializing in enterprise Wind
         <li><b>SSMS SQL Studio</b>: Unlimited timeout execution (<code>CommandTimeout = 0</code>), schema tree explorer, and safe transaction testing.</li>
       </ul>
       <p>
-        <a href="https://github.com/Mandar023/Nexus-Photo-Optimizer">
+        <a href="https://github.com/Mandar023/Nexus-Enterprise-Studio">
           <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github" />
         </a>
-        <a href="https://github.com/Mandar023/Nexus-Photo-Optimizer/releases/latest">
+        <a href="https://github.com/Mandar023/Nexus-Enterprise-Studio/releases/latest">
           <img src="https://img.shields.io/badge/Download-Latest%20Portable%20Release-0284c7?style=flat-square&logo=windows" />
         </a>
       </p>
     </td>
     <td width="40%" align="center">
-      <a href="https://github.com/Mandar023/Nexus-Photo-Optimizer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mandar023&repo=Nexus-Photo-Optimizer&theme=tokyonight&hide_border=true" width="100%" />
+      <a href="https://github.com/Mandar023/Nexus-Enterprise-Studio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mandar023&repo=Nexus-Enterprise-Studio&theme=tokyonight&hide_border=true" width="100%" />
       </a>
     </td>
   </tr>
