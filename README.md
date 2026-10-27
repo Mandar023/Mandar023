@@ -69,12 +69,16 @@ I specialize in **High-Throughput Windows Desktop Engineering**, **Municipal Dat
 <br/>
 
 <p align="center">
+  <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/">
+    <img src="https://img.shields.io/badge/LIVE%203D%20EXPERIENCE-00F2FE?style=for-the-badge&logo=three.js&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Mandar023/Nexus-Enterprise-Studio">
     <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Mandar023/Nexus-Enterprise-Studio/releases/latest">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20LATEST%20RELEASE%20(v5.5.0)-0284C7?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/DOWNLOAD%20RELEASE%20(v5.5.0)-0284C7?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
 </p>
 
