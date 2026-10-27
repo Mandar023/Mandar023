@@ -97,6 +97,12 @@ I specialize in **High-Throughput Windows Desktop Engineering**, **Municipal Dat
 | **05. Offline AI & Exam Resizer** | Embedded U2Net ONNX machine learning model for 100% offline background subtraction, strict government exam constraints, and OTP decryptor. | **ONNX Neural Engine** &bull; Strict KB/DPI Constraints |
 | **06. P2P LAN Mesh & Elevation** | UDP subnet discovery (52822), high-speed TCP file transfer (52824), and zero-prompt scheduled task administrator elevation. | **60 FPS WPF** &bull; SmartScreen ADS Bypass |
 
+<br/>
+
+> [!TIP]
+> 🚀 **[Launch Live Animated Working Simulation Studio &raquo;](https://mandar023.github.io/Nexus-Enterprise-Studio/)**  
+> *Experience all 6 engines physically operating in real-time through animated canvas flows, live SQL stored procedure terminals, dual-pane diff laser sweeps, and before/after vector sliders.*
+
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
 
 ### 📊 Real-Time GitHub Activity & Metrics
