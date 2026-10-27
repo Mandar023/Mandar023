@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- LUXURY CYBERPUNK ISOMETRIC ANIMATED HEADER -->
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/header-banner.svg" width="100%" alt="Mandar Systems Architect" />
@@ -22,18 +22,18 @@
 
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
 
-### ❖ Engineering Profile & Core Systems
+### â– Engineering Profile & Core Systems
 
-I specialize in **High-Throughput Windows Desktop Engineering**, **Municipal Data Infrastructure**, and **Enterprise Database Automation**:
+I specialize in **High-Throughput Windows Desktop Engineering**, **Enterprise Data Infrastructure**, and **Enterprise Database Automation**:
 
-- ◈ **Municipal Infrastructure**: Architected distributed multi-server consolidation and layout plan routing systems managing millions of property tax records across distributed UNC network shares.
-- ◈ **Zero-Dependency Philosophy**: Designing native, self-contained desktop workspaces leveraging low-latency Windows APIs, PowerShell, and .NET Framework without installer bloat or third-party runtimes.
-- ◈ **Flagship Platform**: Creator and lead engineer of **[Nexus Enterprise Studio](https://github.com/Mandar023/Nexus-Enterprise-Studio)** — an all-in-one suite unifying Crystal Reports vector WMF optimization (≤25KB), Beyond Compare 5 folder/code diffing, and an SSMS-grade SQL console with infinite execution timeouts.
-- ◈ **Core Competencies**: PowerShell Automation, C# / WPF Systems, T-SQL Query Optimization, ONNX Machine Learning Inference, Network File Synchronization, and High-Precision Vector Graphics.
+- â—ˆ **Enterprise Infrastructure**: Architected distributed multi-server consolidation and layout plan routing systems managing millions of property tax records across distributed UNC network shares.
+- â—ˆ **Zero-Dependency Philosophy**: Designing native, self-contained desktop workspaces leveraging low-latency Windows APIs, PowerShell, and .NET Framework without installer bloat or third-party runtimes.
+- â—ˆ **Flagship Platform**: Creator and lead engineer of **[Nexus Enterprise Studio](https://github.com/Mandar023/Nexus-Enterprise-Studio)** â€” an all-in-one suite unifying Crystal Reports vector WMF optimization (â‰¤25KB), Beyond Compare 5 folder/code diffing, and an SSMS-grade SQL console with infinite execution timeouts.
+- â—ˆ **Core Competencies**: PowerShell Automation, C# / WPF Systems, T-SQL Query Optimization, ONNX Machine Learning Inference, Network File Synchronization, and High-Precision Vector Graphics.
 
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
 
-### ❖ Featured Flagship Architecture
+### â– Featured Flagship Architecture
 
 <div align="center">
 
@@ -61,9 +61,9 @@ I specialize in **High-Throughput Windows Desktop Engineering**, **Municipal Dat
 
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
 
-### ❖ Live Functional Simulations ("Show, Don't Tell")
+### â– Live Functional Simulations ("Show, Don't Tell")
 
-Watch all 6 enterprise engines operating in real-time — from automated UNC conduit routing and dual-pane Myers diff sweeps to infinite-timeout stored procedure batch loops:
+Watch all 6 enterprise engines operating in real-time â€” from automated UNC conduit routing and dual-pane Myers diff sweeps to infinite-timeout stored procedure batch loops:
 
 <div align="center">
 
@@ -73,13 +73,13 @@ Watch all 6 enterprise engines operating in real-time — from automated UNC con
       <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/#sec-sync">
         <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/anim-consolidator.svg" width="100%" alt="Multi-Server Consolidator Engine" />
       </a>
-      <p align="center"><b>01 // Multi-Server Consolidator</b><br/><i>O(1) Hash Filter • Duplicate Elimination</i></p>
+      <p align="center"><b>01 // Multi-Server Consolidator</b><br/><i>O(1) Hash Filter â€¢ Duplicate Elimination</i></p>
     </td>
     <td align="center" width="50%">
       <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/#sec-diff">
         <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/anim-diff-studio.svg" width="100%" alt="Beyond Compare 5 Studio" />
       </a>
-      <p align="center"><b>02 // Beyond Compare 5 Diff Studio</b><br/><i>Myers/Patience Algorithm • Laser Sweep</i></p>
+      <p align="center"><b>02 // Beyond Compare 5 Diff Studio</b><br/><i>Myers/Patience Algorithm â€¢ Laser Sweep</i></p>
     </td>
   </tr>
   <tr>
@@ -87,13 +87,13 @@ Watch all 6 enterprise engines operating in real-time — from automated UNC con
       <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/#sec-sql">
         <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/anim-sql-console.svg" width="100%" alt="SSMS SQL Console" />
       </a>
-      <p align="center"><b>03 // SSMS SQL Console</b><br/><i>Timeout = 0 • Live Batch Row Stream</i></p>
+      <p align="center"><b>03 // SSMS SQL Console</b><br/><i>Timeout = 0 â€¢ Live Batch Row Stream</i></p>
     </td>
     <td align="center" width="50%">
       <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/#sec-wmf">
         <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/anim-vector-wmf.svg" width="100%" alt="Vector WMF Optimizer" />
       </a>
-      <p align="center"><b>04 // Vector WMF / EMF Engine</b><br/><i>Solid Pure-White • ≤25KB Output</i></p>
+      <p align="center"><b>04 // Vector WMF / EMF Engine</b><br/><i>Solid Pure-White â€¢ â‰¤25KB Output</i></p>
     </td>
   </tr>
   <tr>
@@ -101,13 +101,13 @@ Watch all 6 enterprise engines operating in real-time — from automated UNC con
       <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/#sec-ai">
         <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/anim-ai-resizer.svg" width="100%" alt="Offline AI Biometric Resizer" />
       </a>
-      <p align="center"><b>05 // Offline AI Biometric Resizer</b><br/><i>U2Net ONNX • 300 DPI Strict Constraints</i></p>
+      <p align="center"><b>05 // Offline AI Biometric Resizer</b><br/><i>U2Net ONNX â€¢ 300 DPI Strict Constraints</i></p>
     </td>
     <td align="center" width="50%">
       <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/#sec-lan">
         <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/anim-lan-mesh.svg" width="100%" alt="P2P LAN Mesh Radar" />
       </a>
-      <p align="center"><b>06 // P2P LAN Mesh Radar</b><br/><i>360° Radar • UDP 52822 Discovery</i></p>
+      <p align="center"><b>06 // P2P LAN Mesh Radar</b><br/><i>360Â° Radar â€¢ UDP 52822 Discovery</i></p>
     </td>
   </tr>
 </table>
@@ -116,7 +116,7 @@ Watch all 6 enterprise engines operating in real-time — from automated UNC con
 
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
 
-### ❖ Interactive Tech Stack & Ecosystem
+### â– Interactive Tech Stack & Ecosystem
 
 <div align="center">
 
@@ -141,7 +141,7 @@ Watch all 6 enterprise engines operating in real-time — from automated UNC con
 
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
 
-### ❖ Real-Time GitHub Activity & Metrics
+### â– Real-Time GitHub Activity & Metrics
 
 <div align="center">
 
@@ -168,3 +168,4 @@ Watch all 6 enterprise engines operating in real-time — from automated UNC con
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=100&section=footer" width="100%"/>
 </div>
+

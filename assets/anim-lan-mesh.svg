@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" width="100%" height="280">
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" width="100%" height="280">
   <defs>
     <linearGradient id="lan-bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#070c18" />
@@ -44,7 +44,7 @@
   <circle cx="48" cy="18" r="4.5" fill="#10b981" />
   <text x="70" y="22" fill="#94a3b8" font-family="'Fira Code', monospace" font-size="11" font-weight="600">06 // P2P LAN MESH RADAR</text>
   <rect x="360" y="9" width="104" height="18" rx="9" fill="#064e3b" />
-  <text x="372" y="22" fill="#34d399" font-family="'Fira Code', monospace" font-size="9" font-weight="700">● 4 PEERS SYNC</text>
+  <text x="372" y="22" fill="#34d399" font-family="'Fira Code', monospace" font-size="9" font-weight="700">â— 4 PEERS SYNC</text>
 
   <!-- RADAR DISPLAY (LEFT) -->
   <g transform="translate(15, 45)">
@@ -70,17 +70,17 @@
     <!-- Discovered Peer Blips -->
     <g class="blip-1">
       <circle cx="75" cy="65" r="5" fill="#38bdf8" filter="url(#radar-glow)" />
-      <text x="45" y="55" fill="#38bdf8" font-family="'Fira Code', monospace" font-size="7.5" font-weight="700">192.168.1.11</text>
+      <text x="45" y="55" fill="#38bdf8" font-family="'Fira Code', monospace" font-size="7.5" font-weight="700">10.0.1.11</text>
     </g>
 
     <g class="blip-2">
       <circle cx="160" cy="75" r="5" fill="#38bdf8" filter="url(#radar-glow)" />
-      <text x="145" y="65" fill="#38bdf8" font-family="'Fira Code', monospace" font-size="7.5" font-weight="700">192.168.1.22</text>
+      <text x="145" y="65" fill="#38bdf8" font-family="'Fira Code', monospace" font-size="7.5" font-weight="700">10.0.1.22</text>
     </g>
 
     <g class="blip-3">
       <circle cx="105" cy="145" r="5" fill="#10b981" filter="url(#radar-glow)" />
-      <text x="80" y="162" fill="#34d399" font-family="'Fira Code', monospace" font-size="7.5" font-weight="700">192.168.1.19 [MASTER]</text>
+      <text x="80" y="162" fill="#34d399" font-family="'Fira Code', monospace" font-size="7.5" font-weight="700">10.0.2.19 [MASTER]</text>
     </g>
   </g>
 
@@ -90,7 +90,7 @@
     <rect x="0" y="0" width="220" height="52" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
     <text x="12" y="20" fill="#64748b" font-family="'Fira Code', monospace" font-size="8.5" font-weight="700">UDP DISCOVERY PORT</text>
     <text x="12" y="38" fill="#34d399" font-family="'Fira Code', monospace" font-size="13" font-weight="800">52822 (BROADCAST)</text>
-    <text x="160" y="28" fill="#10b981" font-family="'Fira Code', monospace" font-size="9">● ACTIVE</text>
+    <text x="160" y="28" fill="#10b981" font-family="'Fira Code', monospace" font-size="9">â— ACTIVE</text>
 
     <!-- Card 2: TCP High-Speed Stream -->
     <g transform="translate(0, 60)">
@@ -112,7 +112,7 @@
   <!-- Status Bottom Banner -->
   <g transform="translate(10, 238)">
     <rect x="0" y="0" width="460" height="30" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
-    <text x="12" y="19" fill="#10b981" font-family="'Fira Code', monospace" font-size="10" font-weight="700">✓ AUTO SUBNET MESH LINK ESTABLISHED</text>
+    <text x="12" y="19" fill="#10b981" font-family="'Fira Code', monospace" font-size="10" font-weight="700">âœ“ AUTO SUBNET MESH LINK ESTABLISHED</text>
     <text x="315" y="19" fill="#34d399" font-family="'Fira Code', monospace" font-size="9.5">Web Share (52826)</text>
   </g>
 </svg>
