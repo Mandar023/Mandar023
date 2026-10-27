@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%" height="220">
+  <defs>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070C1B" />
+      <stop offset="50%" stop-color="#0B132B" />
+      <stop offset="100%" stop-color="#060914" />
+    </linearGradient>
+
+    <linearGradient id="neon-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="100%" stop-color="#4FACFE" />
+    </linearGradient>
+
+    <linearGradient id="neon-purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#D946EF" />
+    </linearGradient>
+
+    <linearGradient id="badge-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" />
+      <stop offset="100%" stop-color="#2563EB" />
+    </linearGradient>
+
+    <filter id="card-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      @keyframes float-stack {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-7px); }
+        100% { transform: translateY(0px); }
+      }
+      @keyframes pulse-dot {
+        0% { opacity: 0.4; }
+        50% { opacity: 1; }
+        100% { opacity: 0.4; }
+      }
+      .anim-stack {
+        animation: float-stack 4s ease-in-out infinite;
+      }
+      .anim-pulse {
+        animation: pulse-dot 2s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background Card with Cyber Bevel -->
+  <rect x="2" y="2" width="896" height="216" rx="14" fill="url(#card-bg)" stroke="#1E293B" stroke-width="1.5" />
+  
+  <!-- Sleek Top Cyan Border Accent -->
+  <line x1="24" y1="2" x2="876" y2="2" stroke="url(#neon-cyan)" stroke-width="2" filter="url(#card-glow)" />
+
+  <!-- Left Content: Flagship Branding & Features -->
+  <g transform="translate(42, 34)">
+    <!-- Badges Row -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="138" height="24" rx="5" fill="url(#badge-grad)" />
+      <text x="10" y="16" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="10.5" font-weight="800" letter-spacing="1">FLAGSHIP PROJECT</text>
+
+      <rect x="146" y="0" width="70" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="1" />
+      <text x="157" y="16" fill="#38BDF8" font-family="'Segoe UI', sans-serif" font-size="10.5" font-weight="700">v5.5.0</text>
+
+      <circle cx="230" cy="12" r="4.5" fill="#10B981" class="anim-pulse" filter="url(#card-glow)" />
+      <text x="242" y="16" fill="#94A3B8" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600">Active Production Release</text>
+    </g>
+
+    <!-- Project Title -->
+    <text x="0" y="58" fill="#F8FAFC" font-family="'Segoe UI', -apple-system, sans-serif" font-size="24" font-weight="800" letter-spacing="0.5">NEXUS ENTERPRISE STUDIO</text>
+    <text x="360" y="58" fill="#38BDF8" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="600">/ Zero-Dependency Suite</text>
+
+    <!-- Description -->
+    <text x="0" y="86" fill="#CBD5E1" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="400">
+      Enterprise desktop workspace for municipal data infrastructure, multi-server network sync,
+    </text>
+    <text x="0" y="106" fill="#CBD5E1" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="400">
+      native Beyond Compare 5 folder/code diffing, and infinite-timeout SSMS SQL management.
+    </text>
+
+    <!-- Micro Tags -->
+    <g transform="translate(0, 126)">
+      <rect x="0" y="0" width="168" height="22" rx="4" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+      <text x="8" y="15" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="10.5">Crystal Reports WMF</text>
+
+      <rect x="176" y="0" width="160" height="22" rx="4" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+      <text x="184" y="15" fill="#A855F7" font-family="'Fira Code', monospace" font-size="10.5">O(1) Deduplication</text>
+
+      <rect x="344" y="0" width="140" height="22" rx="4" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+      <text x="352" y="15" fill="#10B981" font-family="'Fira Code', monospace" font-size="10.5">SSMS SQL Console</text>
+
+      <rect x="492" y="0" width="130" height="22" rx="4" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+      <text x="500" y="15" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="10.5">Beyond Compare 5</text>
+    </g>
+  </g>
+
+  <!-- Right Visual: 3D Floating Isometric Server & Data Slabs -->
+  <g class="anim-stack" transform="translate(730, 110)">
+    <!-- Base Glow -->
+    <ellipse cx="0" cy="50" rx="90" ry="25" fill="#0284C7" opacity="0.18" filter="url(#card-glow)" />
+
+    <!-- Bottom Slab (SQL & Data Layer) -->
+    <g transform="translate(0, 36)">
+      <polygon points="0,-20 70,12 0,44 -70,12" fill="#0F172A" stroke="#334155" stroke-width="1.2" />
+      <polygon points="0,-20 70,12 0,16 -70,-16" fill="#1E293B" />
+      <polygon points="0,44 70,12 70,22 0,54" fill="#082F49" />
+      <polygon points="0,44 -70,12 -70,22 0,54" fill="#0C4A6E" />
+      <!-- Indicator Dot -->
+      <circle cx="-35" cy="22" r="2.5" fill="#38BDF8" />
+      <circle cx="-25" cy="27" r="2.5" fill="#10B981" />
+    </g>
+
+    <!-- Middle Slab (Consolidator & Network Sync) -->
+    <g transform="translate(0, 6)">
+      <polygon points="0,-20 70,12 0,44 -70,12" fill="#0A1124" stroke="#0284C7" stroke-width="1.2" />
+      <polygon points="0,-20 70,12 0,16 -70,-16" fill="#0284C7" opacity="0.4" />
+      <polygon points="0,44 70,12 70,22 0,54" fill="#0369A1" />
+      <polygon points="0,44 -70,12 -70,22 0,54" fill="#0284C7" />
+      <circle cx="-35" cy="22" r="2.5" fill="#A855F7" />
+      <circle cx="-25" cy="27" r="2.5" fill="#00F0FF" />
+    </g>
+
+    <!-- Top Slab (WPF UI & Diff Engine) -->
+    <g transform="translate(0, -24)">
+      <polygon points="0,-20 70,12 0,44 -70,12" fill="#050B18" stroke="#00F0FF" stroke-width="1.6" filter="url(#card-glow)" />
+      <polygon points="0,-20 70,12 0,16 -70,-16" fill="#00F0FF" opacity="0.5" />
+      <polygon points="0,44 70,12 70,22 0,54" fill="#0284C7" />
+      <polygon points="0,44 -70,12 -70,22 0,54" fill="#00F0FF" />
+      <!-- Hologram Diamond on Top -->
+      <polygon points="0,-36 12,-20 0,-4 -12,-20" fill="url(#neon-cyan)" filter="url(#card-glow)" />
+    </g>
+  </g>
+</svg>
