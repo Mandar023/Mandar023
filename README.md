@@ -22,18 +22,18 @@
 
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
 
-### ⚡ Engineering Profile & Core Systems
+### ❖ Engineering Profile & Core Systems
 
 I specialize in **High-Throughput Windows Desktop Engineering**, **Municipal Data Infrastructure**, and **Enterprise Database Automation**:
 
-- 🏛️ **Municipal Infrastructure**: Architected distributed multi-server consolidation and layout plan routing systems managing millions of property tax records across distributed UNC network shares.
-- ⚡ **Zero-Dependency Philosophy**: Designing native, self-contained desktop workspaces leveraging low-latency Windows APIs, PowerShell, and .NET Framework without installer bloat or third-party runtimes.
-- 🚀 **Flagship Platform**: Creator and lead engineer of **[Nexus Enterprise Studio](https://github.com/Mandar023/Nexus-Enterprise-Studio)** — an all-in-one suite unifying Crystal Reports vector WMF optimization (≤25KB), Beyond Compare 5 folder/code diffing, and an SSMS-grade SQL console with infinite execution timeouts.
-- 🛠️ **Core Competencies**: PowerShell Automation, C# / WPF Systems, T-SQL Query Optimization, ONNX Machine Learning Inference, Network File Synchronization, and High-Precision Vector Graphics.
+- ◈ **Municipal Infrastructure**: Architected distributed multi-server consolidation and layout plan routing systems managing millions of property tax records across distributed UNC network shares.
+- ◈ **Zero-Dependency Philosophy**: Designing native, self-contained desktop workspaces leveraging low-latency Windows APIs, PowerShell, and .NET Framework without installer bloat or third-party runtimes.
+- ◈ **Flagship Platform**: Creator and lead engineer of **[Nexus Enterprise Studio](https://github.com/Mandar023/Nexus-Enterprise-Studio)** — an all-in-one suite unifying Crystal Reports vector WMF optimization (≤25KB), Beyond Compare 5 folder/code diffing, and an SSMS-grade SQL console with infinite execution timeouts.
+- ◈ **Core Competencies**: PowerShell Automation, C# / WPF Systems, T-SQL Query Optimization, ONNX Machine Learning Inference, Network File Synchronization, and High-Precision Vector Graphics.
 
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
 
-### 🛸 Featured Flagship Architecture
+### ❖ Featured Flagship Architecture
 
 <div align="center">
 
@@ -61,7 +61,7 @@ I specialize in **High-Throughput Windows Desktop Engineering**, **Municipal Dat
 
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
 
-### 🎬 Live Functional Simulations ("Show, Don't Tell")
+### ❖ Live Functional Simulations ("Show, Don't Tell")
 
 Watch all 6 enterprise engines operating in real-time — from automated UNC conduit routing and dual-pane Myers diff sweeps to infinite-timeout stored procedure batch loops:
 
@@ -116,7 +116,7 @@ Watch all 6 enterprise engines operating in real-time — from automated UNC con
 
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
 
-### 🛠️ Interactive Tech Stack & Ecosystem
+### ❖ Interactive Tech Stack & Ecosystem
 
 <div align="center">
 
@@ -141,7 +141,7 @@ Watch all 6 enterprise engines operating in real-time — from automated UNC con
 
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
 
-### 📈 Real-Time GitHub Activity & Metrics
+### ❖ Real-Time GitHub Activity & Metrics
 
 <div align="center">
 
