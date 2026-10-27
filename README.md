@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- 3D CYBERPUNK ISOMETRIC ANIMATED HEADER -->
-<img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/3d-cyber-header.svg" width="100%" alt="Mandar 3D Header" />
+<!-- LUXURY CYBERPUNK ISOMETRIC ANIMATED HEADER -->
+<img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/header-banner.svg" width="100%" alt="Mandar Systems Architect" />
 
 <br/>
 
 <!-- DYNAMIC TYPING TERMINAL -->
 <a href="https://github.com/Mandar023">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&height=45&lines=Software+Engineer+%26+Enterprise+Systems+Architect;Building+High-Throughput+Windows+Desktop+Pipelines;PowerShell+%7C+.NET+%7C+T-SQL+%7C+WPF;Creator+of+Nexus+Enterprise+Studio+(v5.5.0)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=740&height=45&lines=Software+Engineer+%26+Principal+Systems+Architect;Building+High-Throughput+Windows+Desktop+Pipelines;PowerShell+Core+%7C+C%23+%2F+WPF+%7C+MSSQL+%7C+ONNX;Creator+of+Nexus+Enterprise+Studio+(v5.5.0)" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -22,14 +22,97 @@
 
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
 
-### 👨‍💻 Engineering Profile & Architecture
+### ⚡ Engineering Profile & Core Systems
 
 I specialize in **High-Throughput Windows Desktop Engineering**, **Municipal Data Infrastructure**, and **Enterprise Database Automation**:
 
-- 🏙️ **Municipal Infrastructure**: Built enterprise-scale multi-server consolidation and layout plan routing systems managing millions of property tax records across distributed UNC networks.
-- ⚡ **Zero-Dependency Core**: Designing native, self-contained desktop workspaces leveraging low-latency Windows APIs, PowerShell, and the .NET Framework without third-party installer bloat.
-- 🚀 **Flagship Platform**: Creator and lead architect of **[Nexus Enterprise Studio](https://github.com/Mandar023/Nexus-Enterprise-Studio)** — an all-in-one suite unifying Crystal Reports vector WMF optimization (<25KB), Beyond Compare 5 folder/code diffing, and an SSMS-grade SQL console with infinite execution timeouts.
-- 💬 **Core Competencies**: PowerShell Automation, C# / WPF Systems, T-SQL Database Tuning, ONNX Machine Learning Inference, Network File Synchronization, and High-Precision Vector Graphics.
+- 🏛️ **Municipal Infrastructure**: Architected distributed multi-server consolidation and layout plan routing systems managing millions of property tax records across distributed UNC network shares.
+- ⚡ **Zero-Dependency Philosophy**: Designing native, self-contained desktop workspaces leveraging low-latency Windows APIs, PowerShell, and .NET Framework without installer bloat or third-party runtimes.
+- 🚀 **Flagship Platform**: Creator and lead engineer of **[Nexus Enterprise Studio](https://github.com/Mandar023/Nexus-Enterprise-Studio)** — an all-in-one suite unifying Crystal Reports vector WMF optimization (≤25KB), Beyond Compare 5 folder/code diffing, and an SSMS-grade SQL console with infinite execution timeouts.
+- 🛠️ **Core Competencies**: PowerShell Automation, C# / WPF Systems, T-SQL Query Optimization, ONNX Machine Learning Inference, Network File Synchronization, and High-Precision Vector Graphics.
+
+<img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
+
+### 🛸 Featured Flagship Architecture
+
+<div align="center">
+
+<a href="https://github.com/Mandar023/Nexus-Enterprise-Studio">
+  <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/nexus-flagship-card.svg" width="100%" alt="Nexus Enterprise Studio Suite" />
+</a>
+
+<br/>
+
+<p align="center">
+  <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/">
+    <img src="https://img.shields.io/badge/LIVE%203D%20STUDIO%20EXPERIENCE-00F2FE?style=for-the-badge&logo=three.js&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Mandar023/Nexus-Enterprise-Studio">
+    <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Mandar023/Nexus-Enterprise-Studio/releases/latest">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20RELEASE%20(v5.5.0)-0284C7?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
+
+### 🎬 Live Functional Simulations ("Show, Don't Tell")
+
+Watch all 6 enterprise engines operating in real-time — from automated UNC conduit routing and dual-pane Myers diff sweeps to infinite-timeout stored procedure batch loops:
+
+<div align="center">
+
+<table border="0" cellspacing="12" cellpadding="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/#sec-sync">
+        <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/anim-consolidator.svg" width="100%" alt="Multi-Server Consolidator Engine" />
+      </a>
+      <p align="center"><b>01 // Multi-Server Consolidator</b><br/><i>O(1) Hash Filter • Duplicate Elimination</i></p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/#sec-diff">
+        <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/anim-diff-studio.svg" width="100%" alt="Beyond Compare 5 Studio" />
+      </a>
+      <p align="center"><b>02 // Beyond Compare 5 Diff Studio</b><br/><i>Myers/Patience Algorithm • Laser Sweep</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/#sec-sql">
+        <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/anim-sql-console.svg" width="100%" alt="SSMS SQL Console" />
+      </a>
+      <p align="center"><b>03 // SSMS SQL Console</b><br/><i>Timeout = 0 • Live Batch Row Stream</i></p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/#sec-wmf">
+        <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/anim-vector-wmf.svg" width="100%" alt="Vector WMF Optimizer" />
+      </a>
+      <p align="center"><b>04 // Vector WMF / EMF Engine</b><br/><i>Solid Pure-White • ≤25KB Output</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/#sec-ai">
+        <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/anim-ai-resizer.svg" width="100%" alt="Offline AI Biometric Resizer" />
+      </a>
+      <p align="center"><b>05 // Offline AI Biometric Resizer</b><br/><i>U2Net ONNX • 300 DPI Strict Constraints</i></p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/#sec-lan">
+        <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/anim-lan-mesh.svg" width="100%" alt="P2P LAN Mesh Radar" />
+      </a>
+      <p align="center"><b>06 // P2P LAN Mesh Radar</b><br/><i>360° Radar • UDP 52822 Discovery</i></p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
 
@@ -58,54 +141,7 @@ I specialize in **High-Throughput Windows Desktop Engineering**, **Municipal Dat
 
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
 
-### 🌟 Featured Flagship Project
-
-<div align="center">
-
-<a href="https://github.com/Mandar023/Nexus-Enterprise-Studio">
-  <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/3d-project-card.svg" width="100%" alt="Nexus Enterprise Studio 3D Card" />
-</a>
-
-<br/>
-
-<p align="center">
-  <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/">
-    <img src="https://img.shields.io/badge/LIVE%203D%20SPATIAL%20EXPERIENCE-00F2FE?style=for-the-badge&logo=three.js&logoColor=black" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Mandar023/Nexus-Enterprise-Studio">
-    <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Mandar023/Nexus-Enterprise-Studio/releases/latest">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20RELEASE%20(v5.5.0)-0284C7?style=for-the-badge&logo=windows&logoColor=white" />
-  </a>
-</p>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
-
-### 🏛️ Complete System Architecture & Capabilities
-
-| Module | Core Functionality | Enterprise Metric |
-| :--- | :--- | :--- |
-| **01. Multi-Server Consolidator** | Automated UNC traversal across municipal servers (`11`, `22` &rarr; `19`), dual routing (`PropertyImage` & `PlanPhoto`), ward crawler. | **O(1) Deduplication** &bull; Zero Duplicate Transfers |
-| **02. Beyond Compare 5 Studio** | 100% offline diff studio with Myers/Patience code diffing, side-by-side folder directory trees, 3-way merge, and hex tables. | **CRC32 Match** &bull; Zero External Dependency |
-| **03. SSMS-Grade SQL Studio** | Multi-tab query environment with unlimited execution timeout, lazy-loaded schema tree, and safe transaction rollback test mode. | **`CommandTimeout = 0`** &bull; Infinite Batch Loops |
-| **04. Vector WMF/EMF Engine** | High-precision vector downscaler for layout plans with solid pure-white canvas projection preventing Crystal Reports layout glitches. | **&le; 25 KB Output** &bull; 100% Line Sharpness |
-| **05. Offline AI & Exam Resizer** | Embedded U2Net ONNX machine learning model for 100% offline background subtraction, strict government exam constraints, and OTP decryptor. | **ONNX Neural Engine** &bull; Strict KB/DPI Constraints |
-| **06. P2P LAN Mesh & Elevation** | UDP subnet discovery (52822), high-speed TCP file transfer (52824), and zero-prompt scheduled task administrator elevation. | **60 FPS WPF** &bull; SmartScreen ADS Bypass |
-
-<br/>
-
-> [!TIP]
-> 🚀 **[Launch Live Animated Working Simulation Studio &raquo;](https://mandar023.github.io/Nexus-Enterprise-Studio/)**  
-> *Experience all 6 engines physically operating in real-time through animated canvas flows, live SQL stored procedure terminals, dual-pane diff laser sweeps, and before/after vector sliders.*
-
-<img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
-
-### 📊 Real-Time GitHub Activity & Metrics
+### 📈 Real-Time GitHub Activity & Metrics
 
 <div align="center">
 

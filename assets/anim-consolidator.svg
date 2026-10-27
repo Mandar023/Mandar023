@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" width="100%" height="280">
+  <defs>
+    <linearGradient id="c-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070c18" />
+      <stop offset="100%" stop-color="#02040a" />
+    </linearGradient>
+    <filter id="c-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes flow1 {
+      0% { transform: translate(0, 0); opacity: 0.8; }
+      50% { opacity: 1; }
+      100% { transform: translate(140px, 65px); opacity: 0.8; }
+    }
+    @keyframes flow2 {
+      0% { transform: translate(0, 0); opacity: 0.8; }
+      50% { opacity: 1; }
+      100% { transform: translate(-140px, 65px); opacity: 0.8; }
+    }
+    @keyframes flowOut {
+      0% { transform: translateY(0); opacity: 0.9; }
+      100% { transform: translateY(70px); opacity: 0.9; }
+    }
+    @keyframes pulseChamber {
+      0%, 100% { stroke-opacity: 0.5; transform: scale(1); }
+      50% { stroke-opacity: 1; transform: scale(1.05); }
+    }
+    .p1-a { animation: flow1 2s linear infinite; }
+    .p1-b { animation: flow1 2s linear infinite 0.7s; }
+    .p2-a { animation: flow2 2.2s linear infinite; }
+    .p2-b { animation: flow2 2.2s linear infinite 0.9s; }
+    .p-out1 { animation: flowOut 1.6s linear infinite 0.3s; }
+    .p-out2 { animation: flowOut 1.6s linear infinite 1.0s; }
+    .chamber { animation: pulseChamber 2s ease-in-out infinite; transform-origin: 240px 145px; }
+  </style>
+
+  <!-- Container Box -->
+  <rect x="2" y="2" width="476" height="276" rx="16" fill="url(#c-bg)" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Window Header -->
+  <rect x="2" y="2" width="476" height="36" rx="16" fill="#0b1329" />
+  <rect x="2" y="26" width="476" height="12" fill="#0b1329" />
+  <circle cx="20" cy="18" r="4.5" fill="#ef4444" />
+  <circle cx="34" cy="18" r="4.5" fill="#f59e0b" />
+  <circle cx="48" cy="18" r="4.5" fill="#10b981" />
+  <text x="70" y="22" fill="#94a3b8" font-family="'Fira Code', monospace" font-size="11" font-weight="600">01 // MULTI-SERVER CONSOLIDATOR</text>
+  <rect x="360" y="9" width="104" height="18" rx="9" fill="#064e3b" />
+  <text x="370" y="22" fill="#34d399" font-family="'Fira Code', monospace" font-size="9" font-weight="700">● LIVE ROUTING</text>
+
+  <!-- Conduits (Pipes) -->
+  <path d="M 100 80 L 240 145" stroke="#1e3a5f" stroke-width="4" stroke-dasharray="6,4" />
+  <path d="M 380 80 L 240 145" stroke="#1e3a5f" stroke-width="4" stroke-dasharray="6,4" />
+  <path d="M 240 145 L 240 225" stroke="#059669" stroke-width="4" stroke-dasharray="6,4" />
+
+  <!-- Midpoint Packets -->
+  <circle cx="170" cy="112" r="4.5" fill="#38bdf8" filter="url(#c-glow)" />
+  <circle cx="310" cy="112" r="4.5" fill="#f59e0b" filter="url(#c-glow)" />
+  <circle cx="240" cy="185" r="5" fill="#10b981" filter="url(#c-glow)" />
+
+  <!-- Active Flow Particles Left -->
+  <circle cx="100" cy="80" r="5" fill="#38bdf8" filter="url(#c-glow)" class="p1-a" />
+  <circle cx="100" cy="80" r="4" fill="#38bdf8" filter="url(#c-glow)" class="p1-b" />
+
+  <!-- Active Flow Particles Right -->
+  <circle cx="380" cy="80" r="5" fill="#f59e0b" filter="url(#c-glow)" class="p2-a" />
+  <circle cx="380" cy="80" r="4" fill="#38bdf8" filter="url(#c-glow)" class="p2-b" />
+
+  <!-- Filtered Output Packets (Bottom) -->
+  <circle cx="240" cy="155" r="5" fill="#10b981" filter="url(#c-glow)" class="p-out1" />
+  <circle cx="240" cy="155" r="5" fill="#10b981" filter="url(#c-glow)" class="p-out2" />
+
+  <!-- Source Node 1 (192.168.1.11) -->
+  <g transform="translate(50, 56)">
+    <rect x="0" y="0" width="100" height="46" rx="8" fill="#0f172a" stroke="#0284c7" stroke-width="1.5" />
+    <text x="10" y="20" fill="#ffffff" font-family="'Fira Code', monospace" font-size="10" font-weight="700">SERVER 11</text>
+    <text x="10" y="36" fill="#38bdf8" font-family="'Fira Code', monospace" font-size="9">192.168.1.11</text>
+  </g>
+
+  <!-- Source Node 2 (192.168.1.22) -->
+  <g transform="translate(330, 56)">
+    <rect x="0" y="0" width="100" height="46" rx="8" fill="#0f172a" stroke="#0284c7" stroke-width="1.5" />
+    <text x="10" y="20" fill="#ffffff" font-family="'Fira Code', monospace" font-size="10" font-weight="700">SERVER 22</text>
+    <text x="10" y="36" fill="#38bdf8" font-family="'Fira Code', monospace" font-size="9">192.168.1.22</text>
+  </g>
+
+  <!-- Central O(1) Deduplication Chamber -->
+  <g class="chamber">
+    <circle cx="240" cy="145" r="30" fill="#0f172a" stroke="#00f2fe" stroke-width="2.5" filter="url(#c-glow)" />
+    <text x="222" y="142" fill="#00f2fe" font-family="'Fira Code', monospace" font-size="12" font-weight="800">O(1)</text>
+    <text x="217" y="154" fill="#94a3b8" font-family="'Fira Code', monospace" font-size="8" font-weight="600">FILTER</text>
+  </g>
+
+  <!-- Dropped Duplicate Indicator -->
+  <g transform="translate(285, 142)">
+    <rect x="0" y="0" width="84" height="20" rx="4" fill="#450a0a" stroke="#ef4444" stroke-width="1" />
+    <text x="6" y="14" fill="#fca5a5" font-family="'Fira Code', monospace" font-size="8.5" font-weight="700">✕ DUP FILTERED</text>
+  </g>
+
+  <!-- Destination Master Node (192.168.1.19) -->
+  <g transform="translate(170, 218)">
+    <rect x="0" y="0" width="140" height="48" rx="8" fill="#064e3b" stroke="#10b981" stroke-width="2" />
+    <text x="12" y="20" fill="#ffffff" font-family="'Fira Code', monospace" font-size="10" font-weight="700">MASTER SERVER 19</text>
+    <text x="12" y="36" fill="#6ee7b7" font-family="'Fira Code', monospace" font-size="9">Ward Folders Synced</text>
+  </g>
+</svg>
