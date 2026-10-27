@@ -70,7 +70,7 @@ I specialize in **High-Throughput Windows Desktop Engineering**, **Municipal Dat
 
 <p align="center">
   <a href="https://mandar023.github.io/Nexus-Enterprise-Studio/">
-    <img src="https://img.shields.io/badge/LIVE%203D%20EXPERIENCE-00F2FE?style=for-the-badge&logo=three.js&logoColor=black" />
+    <img src="https://img.shields.io/badge/LIVE%203D%20SPATIAL%20EXPERIENCE-00F2FE?style=for-the-badge&logo=three.js&logoColor=black" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Mandar023/Nexus-Enterprise-Studio">
@@ -83,6 +83,19 @@ I specialize in **High-Throughput Windows Desktop Engineering**, **Municipal Dat
 </p>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
+
+### 🏛️ Complete System Architecture & Capabilities
+
+| Module | Core Functionality | Enterprise Metric |
+| :--- | :--- | :--- |
+| **01. Multi-Server Consolidator** | Automated UNC traversal across municipal servers (`11`, `22` &rarr; `19`), dual routing (`PropertyImage` & `PlanPhoto`), ward crawler. | **O(1) Deduplication** &bull; Zero Duplicate Transfers |
+| **02. Beyond Compare 5 Studio** | 100% offline diff studio with Myers/Patience code diffing, side-by-side folder directory trees, 3-way merge, and hex tables. | **CRC32 Match** &bull; Zero External Dependency |
+| **03. SSMS-Grade SQL Studio** | Multi-tab query environment with unlimited execution timeout, lazy-loaded schema tree, and safe transaction rollback test mode. | **`CommandTimeout = 0`** &bull; Infinite Batch Loops |
+| **04. Vector WMF/EMF Engine** | High-precision vector downscaler for layout plans with solid pure-white canvas projection preventing Crystal Reports layout glitches. | **&le; 25 KB Output** &bull; 100% Line Sharpness |
+| **05. Offline AI & Exam Resizer** | Embedded U2Net ONNX machine learning model for 100% offline background subtraction, strict government exam constraints, and OTP decryptor. | **ONNX Neural Engine** &bull; Strict KB/DPI Constraints |
+| **06. P2P LAN Mesh & Elevation** | UDP subnet discovery (52822), high-speed TCP file transfer (52824), and zero-prompt scheduled task administrator elevation. | **60 FPS WPF** &bull; SmartScreen ADS Bypass |
 
 <img src="https://raw.githubusercontent.com/Mandar023/Mandar023/main/assets/cyber-divider.svg" width="100%" />
 
